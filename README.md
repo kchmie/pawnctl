@@ -44,6 +44,3 @@ Just copy the repo and run: \
 \
 The project also has a github action dedicated to compiling the project. 
 
-<!-- Contact -->
-## 🤝🏻 Contact
-Discord - @christhefrog
